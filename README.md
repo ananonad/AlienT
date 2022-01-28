@@ -5,7 +5,7 @@ Website: https://morning-falls-40233.herokuapp.com/
 * Technologies used: HTML/CSS with Bootstrap, JavaScript with EJS Templating, Express/NodeJS. Used RESTful Routes to create CRUD functionallity.  
 
 Key Features we chose:  
-    1. Ability to CRUD Restaurants to the website
+    1. Ability to CRUD Restaurants to the website </br>
     2. CRUD Users
     3. CD Reviews
 
