@@ -6,18 +6,18 @@ Website: https://morning-falls-40233.herokuapp.com/
 
 Key Features we chose:  
     1. Ability to CRUD Restaurants to the website </br>
-    2. CRUD Users
-    3. CD Reviews
+    2. CRUD Users </br>
+    3. CD Reviews </br>
 
 We used a TripAdvisor website as an inspiration for a NYC Resturant Interactive Directory.  We improved on the user flow by adding link to add new restaurants from home page.
 
-We created three databases using MongoDB: 
-Users, Restaurants, and Reviews. 
-Users to Restaurants: Many to Many
-Users to Reviews: One to Many
-Restaurants to Reviews: One to Many
+We created three databases using MongoDB: </br>
+Users, Restaurants, and Reviews. </br>
+Users to Restaurants: Many to Many </br>
+Users to Reviews: One to Many </br>
+Restaurants to Reviews: One to Many </br>
 
-We deployed our project on Heroku: 
+We deployed our project on Heroku: </br>
 https://morning-falls-40233.herokuapp.com/
 
 
