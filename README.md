@@ -1,1 +1,34 @@
 # Project2
+Website: https://morning-falls-40233.herokuapp.com/
+* Project Goal:  Reverse Engineer Site we all liked. 
+* Teammates: Will Bowles, Anna Nad, and KT Go
+* Technologies used: HTML/CSS with Bootstrap, JavaScript with EJS Templating, Express/NodeJS. Used RESTful Routes to create CRUD functionallity.  
+
+Key Features we chose:  
+    1. Ability to CRUD Restaurants to the website </br>
+    2. CRUD Users </br>
+    3. CD Reviews </br>
+
+We used a TripAdvisor website as an inspiration for a NYC Resturant Interactive Directory.  We improved on the user flow by adding link to add new restaurants from home page.
+
+We created three databases using MongoDB: </br>
+Users, Restaurants, and Reviews. </br>
+Users to Restaurants: Many to Many </br>
+Users to Reviews: One to Many </br>
+Restaurants to Reviews: One to Many </br>
+
+We deployed our project on Heroku: </br>
+https://morning-falls-40233.herokuapp.com/
+
+
+Website Pictures
+![Chrome+Preview](https://media.git.generalassemb.ly/user/40929/files/622e2c00-8043-11ec-8569-de5f3fbdfdc4) - Dark Theme Homepage
+![Firefox_preview](https://media.git.generalassemb.ly/user/40929/files/6f4b1b00-8043-11ec-96ab-b2e0acca34a2) - Default White Background Homepage
+![add new restaurant](https://media.git.generalassemb.ly/user/40929/files/75d99280-8043-11ec-9df8-e3a78fe877a6) - Add New Restaurant
+![restaurant](https://media.git.generalassemb.ly/user/40929/files/a8838b00-8043-11ec-814a-367e0c2b1a4f) - Restaurant
+![sign up page](https://media.git.generalassemb.ly/user/40929/files/bfc27880-8043-11ec-9c5f-52eaa141aa52) - Sign Up Page
+
+
+
+
+
